@@ -303,7 +303,7 @@ input[type=submit] {
 		margin-right: 50px;
 	}
 	nav {
-		float: left;
+		padding: 0px 154px 0px 0px;
 	}
 	nav a {
 

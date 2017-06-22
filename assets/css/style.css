@@ -93,14 +93,13 @@ nav a:first-child {
 /* footer */
 
 footer {
-  padding: 30px 0;
-  clear: both;
-  font-size: 12px;
-  color: #fff;
-  color: #ccc;
-  text-align: center;
-  background: #666;
-  border-top: 8px solid #4aaaa5;
+	padding: 30px 0;
+  	clear: both;
+  	font-size: 12px;
+  	color: #fff;
+	text-align: center;
+  	background-color: #666;
+  	border-top: 8px solid #4aaaa5;
 }
 
 /* sidebar */
@@ -246,9 +245,6 @@ input[type=submit] {
 	}
 	nav {
 		margin-right: 80px;
-	}
-	.work img {
-		width: 100%;
 	}
 	.work {
 		margin-bottom: 0;
